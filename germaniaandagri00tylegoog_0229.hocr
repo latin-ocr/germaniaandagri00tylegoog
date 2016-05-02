@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./germaniaandagri00tylegoog_0229.png"; bbox 0 0 713 1131; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 137 168 481 203">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 137 168 481 203">
+     <span class='ocr_line' id='line_1_1' title="bbox 137 168 481 182; baseline 0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 137 168 178 181; x_wconf 76' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_2' title='bbox 189 169 234 182; x_wconf 82' lang='lat' dir='ltr'>NEW</span> <span class='ocrx_word' id='word_1_3' title='bbox 244 169 300 182; x_wconf 74' lang='lat' dir='ltr'>YORK</span> <span class='ocrx_word' id='word_1_4' title='bbox 310 169 383 182; x_wconf 69' lang='lat' dir='ltr'><strong>rum-lc</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 392 169 481 182; x_wconf 70' lang='lat' dir='ltr'>uunmw</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 199 192 427 203; baseline 0.004 -1"><span class='ocrx_word' id='word_1_6' title='bbox 199 192 302 202; x_wconf 65' lang='lat' dir='ltr'>nannenus</span> <span class='ocrx_word' id='word_1_7' title='bbox 311 192 427 203; x_wconf 69' lang='lat' dir='ltr'><strong>mzunrussm·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 122 233 490 269">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 122 233 490 269">
+     <span class='ocr_line' id='line_1_3' title="bbox 122 233 490 246; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 122 233 159 246; x_wconf 66' lang='lat' dir='ltr'>Thi·</span> <span class='ocrx_word' id='word_1_9' title='bbox 166 234 208 246; x_wconf 68' lang='lat' dir='ltr'>book</span> <span class='ocrx_word' id='word_1_10' title='bbox 215 234 228 246; x_wconf 81' lang='lat' dir='ltr'>i·</span> <span class='ocrx_word' id='word_1_11' title='bbox 235 234 285 246; x_wconf 73' lang='lat' dir='ltr'>under</span> <span class='ocrx_word' id='word_1_12' title='bbox 291 238 312 246; x_wconf 76' lang='lat' dir='ltr'>nn</span> <span class='ocrx_word' id='word_1_13' title='bbox 317 234 438 246; x_wconf 66' lang='lat' dir='ltr'>chaum-unne-</span> <span class='ocrx_word' id='word_1_14' title='bbox 447 236 464 246; x_wconf 70' lang='lat' dir='ltr'>to</span> <span class='ocrx_word' id='word_1_15' title='bbox 471 234 490 246; x_wconf 69' lang='lat' dir='ltr'>be</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 207 254 412 269; baseline 0.005 -2"><span class='ocrx_word' id='word_1_16' title='bbox 207 255 253 267; x_wconf 69' lang='lat' dir='ltr'>taken</span> <span class='ocrx_word' id='word_1_17' title='bbox 260 254 301 267; x_wconf 69' lang='lat' dir='ltr'>{rum</span> <span class='ocrx_word' id='word_1_18' title='bbox 308 255 335 267; x_wconf 69' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_19' title='bbox 343 254 412 269; x_wconf 66' lang='lat' dir='ltr'>nundina</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 78 32 637 1086">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 78 32 637 1086">
+     <span class='ocr_line' id='line_1_5' title="bbox 78 32 637 1086; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 78 32 637 1086; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
